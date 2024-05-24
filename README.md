@@ -20,3 +20,6 @@ Ther results show that BiBFS performs significantly better than two others (solv
 ![image](https://github.com/harmonic259/miniCube-solver/assets/88043179/2b2c6db0-381d-4dde-b9a3-9fabe470f174)
 
 </details>
+
+## Demo
+![image](demo/4.gif)
